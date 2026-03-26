@@ -4,8 +4,8 @@ This project focuses on detecting deepfake videos using deep learning techniques
 
 
 🚀 Overview
-Detects deepfake videos using AI
-Uses transfer learning with pretrained ResNeXt
-Extracts frame-level features from videos
-Processes temporal data using LSTM
-Integrated with a Django web application
+-Detects deepfake videos using AI
+-Uses transfer learning with pretrained ResNeXt
+-Extracts frame-level features from videos
+-Processes temporal data using LSTM
+-Integrated with a Django web application
