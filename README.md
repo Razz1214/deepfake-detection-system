@@ -56,7 +56,7 @@ Deepfake_detection_using_deep_learning/
 
 ## 📊 System Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture]([assets/architecture.png](https://github.com/Razz1214/deepfake-detection-system/blob/00ff866c2b0426cbfcfb881d990d0273d450bb40/architecture.png))
 
 ---
 
